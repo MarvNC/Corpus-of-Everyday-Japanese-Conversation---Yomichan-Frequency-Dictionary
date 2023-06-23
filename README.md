@@ -1,6 +1,6 @@
 # [Superior version](https://github.com/forsakeninfinity/CEJC_yomichan_freq_dict)
 
-~~# Corpus of Everyday Japanese Conversation - Yomichan Frequency Dictionary~~
+# ~~Corpus of Everyday Japanese Conversation - Yomichan Frequency Dictionary~~
 
 File employed to create dictionary: yomichan_fre_dict_from_tsv.py
 
