@@ -1,4 +1,4 @@
-# [Superior version](https://github.com/forsakeninfinity/CEJC_yomichan_freq_dict)
+# [Superior version - go here instead](https://github.com/forsakeninfinity/CEJC_yomichan_freq_dict)
 
 # ~~Corpus of Everyday Japanese Conversation - Yomichan Frequency Dictionary~~
 
